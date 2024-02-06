@@ -1,2 +1,2 @@
-# Mutiagents-Systems
-Kyoto University Mutiagents Systems 23 fall
+# Multiagent-Systems
+Kyoto University Multiagent Systems 23 fall
